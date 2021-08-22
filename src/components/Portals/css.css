@@ -1,0 +1,23 @@
+.modal {
+  max-width: 300px;
+  margin: 100px auto;
+  padding: 5%;
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background-color: #f2f2f2;
+  font-size: larger;
+}
+.modal-btn {
+  padding: 5px 10px;
+  text-transform: uppercase;
+  border-radius: 15px;
+  border: 1px solid;
+  background-color: rgb(173, 252, 255);
+}
+.btn {
+  padding: 5px 10px;
+  text-transform: uppercase;
+  border-radius: 15px;
+  border: 1px solid;
+  background-color: rgb(255, 184, 184);
+}
